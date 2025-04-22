@@ -43,4 +43,5 @@ additional confounder
 \details{
 todo
 }
-\keyword{internal}
+\keyword{SIMBA}
+\keyword{create.biased.idx}
