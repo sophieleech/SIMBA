@@ -36,7 +36,9 @@
 #'
 #' @param bias float, strength of the confounder bias in the subsampling
 #'
-#' @keywords internal
+#' @export
+#'
+#' @keywords SIMBA create.biased.idx
 #'
 #' @return vector of real metadata variables insufficient for resampling, if
 #' applicable, otherwise nothing returned & indices are written to
